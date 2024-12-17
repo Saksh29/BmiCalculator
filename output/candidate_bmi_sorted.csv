@@ -1,0 +1,10 @@
+Phone,Name,Height (cm),Weight (kg),Gender,BMI , BMICategory, BMI Status
+1234567890,Ravi,150,40,Male,17.78,Underweight,-1
+9876543210,Jane Smith,165,60,male,22.04,Normal,0
+1234567895,Ram,160,70,Male,27.34,Overweight,1
+4567891230,Mike Johnson,175,85,male,27.76,Overweight,1
+1234567892,Om,180,90,Male,27.78,Overweight,1
+1234567893,Hari,165,85,Male,31.22,Overweight,1
+1234567894,Shami,170,100,Female,34.60,Overweight,1
+1234567898,Mike,170,110,Male,38.06,Overweight,1
+1234567890,John Doe,70,75,male,153.06,Obese,2
